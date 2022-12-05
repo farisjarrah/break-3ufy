@@ -2,7 +2,7 @@
 Teardown of some eufy security hardware.
 
 ## Plan
-* Document and reverse engineer the eufy security ecosystem to discover the capability of the hardware and see if it can be repurposed.
+* Document and reverse engineer the eufy security hardware ecosystem to discover the capability of the hardware and see if it can be repurposed.
 
 ## Strategy
 * Phase 1: Breakdown and document all of the hardware
